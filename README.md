@@ -1,1 +1,0 @@
-# Sql_Case_study
